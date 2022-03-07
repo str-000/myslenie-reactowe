@@ -1,0 +1,22 @@
+[
+    { "book_name": "Losowa nazwa 1", "book_releaseDay": 21, "book_releaseMonth": 7, "book_releaseYear": 2021, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 2", "book_releaseDay": 5, "book_releaseMonth": 2, "book_releaseYear": 2021, "book_isNew": false, "book_photography": "https://webimage.pl/pics/506/6/d97883751765061.jpg" },
+    { "book_name": "Losowa nazwa 3", "book_releaseDay": 18, "book_releaseMonth": 6, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://podarunkowo.pl/6388-large_default/duza-ksiazka-na-alkohol-vademecum-18-latka.jpg" },
+    { "book_name": "Losowa nazwa 4", "book_releaseDay": 19, "book_releaseMonth": 6, "book_releaseYear": 2021, "book_isNew": false, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 5", "book_releaseDay": 4, "book_releaseMonth": 5, "book_releaseYear": 2021, "book_isNew": false, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 6", "book_releaseDay": 12, "book_releaseMonth": 2, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 7", "book_releaseDay": 9, "book_releaseMonth": 7, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 8", "book_releaseDay": 8, "book_releaseMonth": 5, "book_releaseYear": 2021, "book_isNew": false, "book_photography": "https://static.zpe.gov.pl/portal/f/res-minimized/RxR7EIekVyili/3/67PJlSGgxWrwU5nhogKog5woAuUHBeRY.jpg" },
+    { "book_name": "Losowa nazwa 9", "book_releaseDay": 10, "book_releaseMonth": 6, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 10", "book_releaseDay": 11, "book_releaseMonth": 3, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 11", "book_releaseDay": 13, "book_releaseMonth": 10, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 12", "book_releaseDay": 14, "book_releaseMonth": 12, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 13", "book_releaseDay": 15, "book_releaseMonth": 11, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 14", "book_releaseDay": 16, "book_releaseMonth": 8, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 15", "book_releaseDay": 17, "book_releaseMonth": 6, "book_releaseYear": 2022, "book_isNew": false, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 16", "book_releaseDay": 20, "book_releaseMonth": 10, "book_releaseYear": 2021, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 17", "book_releaseDay": 22, "book_releaseMonth": 1, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://podarunkowo.pl/7551-large_default/duza-ksiazka-na-alkohol-medycyna-naturalna.jpg" },
+    { "book_name": "Losowa nazwa 18", "book_releaseDay": 23, "book_releaseMonth": 7, "book_releaseYear": 2021, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 19", "book_releaseDay": 24, "book_releaseMonth": 6, "book_releaseYear": 2022, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" },
+    { "book_name": "Losowa nazwa 20", "book_releaseDay": 25, "book_releaseMonth": 3, "book_releaseYear": 2021, "book_isNew": true, "book_photography": "https://i.imgur.com/Kbpf6sB.png" }
+]
