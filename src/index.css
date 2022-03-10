@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
   font-family: sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -13,8 +14,8 @@ code {
 
 /*SearchButtons*/
 .search-buttons-container {
-  margin: 20px;
-  width: 300px;
+  padding: 20px;
+  width: 600px;
 
   display: flex;
 	flex-direction: row;
@@ -24,9 +25,24 @@ code {
 	align-content: stretch;
 }
 
+@media screen and (max-width: 600px) {
+  .search-buttons-container{
+    display: flex;
+	  flex-direction: column;
+    width: 320px;
+    align-items: center;
+    margin: auto;
+  }
+
+  .search-button{
+    margin-bottom: 20px;
+  }
+}
+
 .search-button {
   padding: 10px;
   width: 100px;
+  height: 40px;
   cursor: pointer;
 
   border-radius: 25px;
@@ -42,17 +58,23 @@ code {
 }
 /*SearchButtons*/
 
-.element-list-container {
+/*ElementList*/
+.element-list-container .element-list-row{
   display: flex;
+  margin: 50px;
+  padding: 20px;
+  overflow: hidden;
+
 	flex-direction: row;
 	flex-wrap: wrap;
-	justify-content: flex-start;
+	justify-content: space-between;
 	align-content: stretch;
 	align-content: stretch;
 }
 
 .element {
-  border: 1px solid black;
+  border-radius: 25px;
+  border: 1px solid #6495ED;
   width: 100px;
   height: 150px;
   margin: 5px;
@@ -73,3 +95,16 @@ code {
   height: 50px;
   width: 50px;
 }
+/*ElementList*/
+
+/*SearchBox*/
+.search-box-input {
+  width: 300px;
+  height: 40px;
+  padding-left: 10px;
+  
+  border-radius: 25px;
+  border: 1px solid #6495ED;
+}
+/*SearchBox*/
+
