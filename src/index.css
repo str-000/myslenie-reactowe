@@ -66,8 +66,9 @@ code {
   overflow: hidden;
 
 	flex-direction: row;
+  border-radius: 25px;
+  border: 1px solid #6495ED;
 	flex-wrap: wrap;
-	justify-content: space-between;
 	align-content: stretch;
 	align-content: stretch;
 }
